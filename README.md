@@ -38,7 +38,7 @@ Instead of using Retrofit, this project utilizes Firebase Firestore to interact 
 
 ## Usage
 
-1. Clone the repository from [GitHub](https://github.com/your-username/your-repository).
+1. Clone the repository from [GitHub](https://github.com/dalemncy/android-kotlin-firestore).
 
 2. Open the project in Android Studio.
 
